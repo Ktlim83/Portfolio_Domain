@@ -15,7 +15,7 @@ parso==0.7.0
 pickleshare==0.7.5
 prompt-toolkit==3.0.5
 pycparser==2.20
-Pygments==2.6.1
+Pygments==2.7.4
 pylint==2.5.3
 pytz==2020.1
 six==1.15.0
